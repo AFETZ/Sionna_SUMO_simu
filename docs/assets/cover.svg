@@ -1,0 +1,26 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sionna SUMO V2X ray-tracing cover</title>
+  <desc id="desc">Research pipeline cover for SUMO mobility and Sionna RT wireless propagation traces.</desc>
+  <rect width="1200" height="360" rx="24" fill="#111827"/>
+  <rect x="46" y="46" width="1108" height="268" rx="20" fill="#192334" stroke="#2d3b57" stroke-width="2"/>
+  <g opacity=".4" stroke="#94a3b8" stroke-width="3">
+    <path d="M94 254h1012M94 204h1012M94 154h1012"/>
+    <path d="M210 82v216M372 82v216M534 82v216M696 82v216M858 82v216M1020 82v216"/>
+  </g>
+  <path d="M170 244c130-78 243-84 338-18 101 70 190 44 282-52 82-85 167-104 254-55" stroke="#f6d365" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#e2e8f0">
+    <circle cx="170" cy="244" r="11"/>
+    <circle cx="508" cy="226" r="11"/>
+    <circle cx="790" cy="174" r="11"/>
+    <circle cx="1044" cy="119" r="11"/>
+  </g>
+  <g stroke="#69c08f" stroke-width="3" opacity=".85">
+    <circle cx="790" cy="174" r="44"/>
+    <circle cx="790" cy="174" r="82"/>
+    <circle cx="790" cy="174" r="122"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="82" y="112" fill="#ffffff" font-size="46" font-weight="700">Sionna + SUMO V2X Simulation</text>
+    <text x="84" y="154" fill="#b7c3d9" font-size="22">3D ray tracing link metrics coupled with microscopic traffic mobility</text>
+  </g>
+</svg>

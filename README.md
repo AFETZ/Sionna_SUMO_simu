@@ -1,5 +1,15 @@
 # Sionna–SUMO 3D Ray‑Tracing V2X Simulation
 
+<p align="center">
+  <img src="docs/assets/cover.svg" alt="Sionna SUMO V2X ray-tracing cover" width="100%">
+</p>
+
+![Portfolio](https://img.shields.io/badge/portfolio-research_pipeline-2f6f6d?style=flat-square)
+![Sionna](https://img.shields.io/badge/ray_tracing-Sionna_RT-44546a?style=flat-square)
+![SUMO](https://img.shields.io/badge/mobility-SUMO-3b6ea8?style=flat-square)
+![Python](https://img.shields.io/badge/Python-scripts-7a5c2e?style=flat-square)
+![V2X](https://img.shields.io/badge/domain-V2X-2f6f6d?style=flat-square)
+
 > **Code availability (for paper reuse):** operational code + scenario assets for reproducing the SUMO↔Sionna RT trace-generation pipeline are available in this repository.
 
 This repository provides an **operational research pipeline** for generating **3D ray‑tracing link metrics** (e.g., RSSI / path-loss style traces, depending on the post‑processing implemented in the scripts) by coupling:
